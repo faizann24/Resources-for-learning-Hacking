@@ -7,3 +7,6 @@
 4. Social Engineering: The Art of Human Hacking
 5. Hacking: The Art of Exploitation, 2nd Edition
 6. Ethical Hacking and Penetration Testing Guide
+
+#Websites
+1. Infosecinstitute (http://resources.infosecinstitute.com/)
