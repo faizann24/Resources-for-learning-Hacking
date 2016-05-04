@@ -25,6 +25,7 @@
 
 #Workshops/Playlists
 1. Web Hacking (https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
+2. Ethical Hacking, A Comprehensive Playlist covering almost everything (https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
 
 
 #Videos
