@@ -10,3 +10,7 @@
 
 #Websites
 1. Infosecinstitute (http://resources.infosecinstitute.com/)
+
+
+#Videos
+1. Complete Free Hacking Course: Go from Beginner to Expert Hacker Today (https://www.youtube.com/watch?v=7nF2BAfWUEg)
