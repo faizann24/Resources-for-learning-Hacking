@@ -15,6 +15,7 @@
 3. Complete Penetration Testing Tutorials by OWASP (https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
 4. Silesia Security Lab (https://silesiasecuritylab.com/blog/)
 5. Rafay Hacking Articles, a great blog (http://www.rafayhackingarticles.net/)
+6. Troyhunt (https://www.troyhunt.com/)
 
 #Vulnerable Machines/Websites
 1. FiringRange (https://public-firing-range.appspot.com/)
