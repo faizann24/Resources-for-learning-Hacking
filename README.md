@@ -17,5 +17,5 @@
 2. Complete Free Hacking Course: Go from Beginner to Expert Hacker Today (https://www.youtube.com/watch?v=7nF2BAfWUEg)
 
 #Hacking Conferences
-1. Blachat (https://www.youtube.com/user/BlackHatOfficialYT)
+1. Blackhat (https://www.youtube.com/user/BlackHatOfficialYT)
 2. Defcon (https://www.youtube.com/user/DEFCONConference)
