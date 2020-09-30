@@ -19,6 +19,8 @@
 
 # Vulnerable Machines/Websites
 1. FiringRange (https://public-firing-range.appspot.com/)
+2. Tryhackme (https://tryhackme.com)
+3. Hackerone (https://hackerone.com)
 
 # Courses
 1. Computer Systems Security, MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
@@ -38,3 +40,8 @@
 # Hacking Conferences
 1. Blackhat (https://www.youtube.com/user/BlackHatOfficialYT)
 2. Defcon (https://www.youtube.com/user/DEFCONConference)
+
+# Telegram
+1. hacking course | udamy course
+2. Indian hacker
+
