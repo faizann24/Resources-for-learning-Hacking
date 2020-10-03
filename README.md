@@ -19,6 +19,7 @@
 
 # Vulnerable Machines/Websites
 1. FiringRange (https://public-firing-range.appspot.com/)
+2. hackthe box (https://hackthebox.eu)
 
 # Courses
 1. Computer Systems Security, MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
